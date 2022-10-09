@@ -1,3 +1,4 @@
+<div align="center">
 [![@vividh003's Holopin board](https://holopin.io/api/user/board?user=vividh003)](https://holopin.io/@vividh003)
 
 <h1 align="center">Hi 👋, I'm Vividh Pandey</h1>
@@ -35,4 +36,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vividhpandey003&" alt="vividhpandey003" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vividhpandey003&show_icons=true&locale=en&layout=compact" alt="vividhpandey003" /></p>
-
+</div>
