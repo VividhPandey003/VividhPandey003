@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vividhpandey003&show_icons=true&locale=en" alt="vividhpandey003" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vividhpandey003&" alt="vividhpandey003" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vividhpandey003&show_icons=true&locale=en&layout=compact" alt="vividhpandey003" /></p>
+
