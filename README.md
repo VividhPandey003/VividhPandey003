@@ -5,7 +5,7 @@
 <h3 align="center">A passionate undergrad developer looking forward to contribute to open source.</h3>
 
   <p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/91251535/194752229-90e2762f-66fa-437f-8643-9f03b63a447c.gif" alt="gif">
+    <img width="500" src="https://user-images.githubusercontent.com/91251535/194752229-90e2762f-66fa-437f-8643-9f03b63a447c.gif" alt="gif">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividhpandey003" alt="vividhpandey003" /></a> </p>
