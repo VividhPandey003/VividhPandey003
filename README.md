@@ -11,19 +11,13 @@
 [![An image of @vividh003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vividh003)](https://holopin.io/@vividh003)
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividhpandey003" alt="vividhpandey003" /></a> </p> -->
 
-- 🔭 I’m currently working on **gaining experience in Open Source.**
-
-- 🌱 I’m currently learning **to code.**
-
-- 👯 I’m looking to collaborate on **on New Projects.**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **Arduino, Open Source, Hackathons, Web Development and GitHub.**
-
-- 📫 How to reach me **Twitter - @vividh_pandey, LinkedIn- Vividh Pandey.**
-
-- ⚡ Fun fact **I spend almost 8 hours surfing the internet about Tech every day.**
+- 🔭 I'm actively immersed in the world of Open Source, eager to gain invaluable experience.
+- 🌱 My journey is currently dedicated to mastering the art of Full Stack Development.
+- 👯 I'm on the lookout for exciting collaborations, especially in the realms of Web-Based and IoT projects.
+- 🤝 I could use some guidance and support in the realm of Web Development.
+- 💬 If you're passionate about tech, I'm always up for engaging conversations - let's be friends!
+- 📫 Connect with me on Twitter (@vividh_pandey) or LinkedIn (Vividh Pandey) - I'm just a message away!
+- ⚡ Fun fact: I've amassed an impressive Hot Wheels collection that would make any enthusiast jealous. My passion for precision extends beyond code!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
