@@ -1,14 +1,15 @@
+ <p align="center">
+    <img src="https://github.com/VividhPandey003/VividhPandey003/assets/91251535/eb712f93-6fe4-4c84-8d05-8e22d29b9a18" alt="gif">
+</p>
 
-[![An image of @vividh003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vividh003)](https://holopin.io/@vividh003)
 
 <h1 align="center">Hi 👋, I'm Vividh Pandey</h1>
 <h3 align="center">A passionate undergrad developer looking forward to contribute to open source.</h3>
 
-  <p align="center">
-    <img width="500" src="https://user-images.githubusercontent.com/91251535/194752229-90e2762f-66fa-437f-8643-9f03b63a447c.gif" alt="gif">
-</p>
+ 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividhpandey003" alt="vividhpandey003" /></a> </p>
+[![An image of @vividh003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vividh003)](https://holopin.io/@vividh003)
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vividhpandey003" alt="vividhpandey003" /></a> </p> -->
 
 - 🔭 I’m currently working on **gaining experience in Open Source.**
 
