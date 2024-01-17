@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vividh_pandey" target="blank"><img src="https://skillicons.dev/icons?i=twitter" />
-<a href="https://linkedin.com/in/vividh-pandey-4bbb95220" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/vividhpandey/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/vividh_13" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
