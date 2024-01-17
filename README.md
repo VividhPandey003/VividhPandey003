@@ -12,7 +12,7 @@
 - 👯 Open to exciting collaborations, especially in Web-Based and IoT projects.
 - 🤝 Seeking guidance and support in the realm of Web Development.
 - 💬 Always up for engaging conversations on tech - let's connect!
-- 📫 Connect with me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/vividh_pandey) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vividhpandey/) - I'm just a message away!
+- 📫 Connect with me on <a href="https://twitter.com/vividh_pandey" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)</a> or <a href="https://www.linkedin.com/in/vividhpandey/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)</a> - I'm just a message away!
 - ⚡ Fun fact: I've amassed an impressive Hot Wheels collection, extending my passion for precision beyond code!
 
 <h3 align="left">Connect with me:</h3>
